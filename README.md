@@ -3,7 +3,8 @@
 ### 👩‍💻 About Me
 I am currently a student at **42 Porto** and in the technical course of computer science by **IEFP**. I’m a technology enthusiast who loves to solve complex problems, from low-level C logic to developing versatile Python and Java applications.
 
-- 🔭 Currently working on: 42 Common Core Projects (C/Python)
+- 🔭 Currently working on: 42 Common Core Projects (C/Python), Vita4All project for Tecstorm 2026
+- 🧡 Geek Girls Mentorship Program (Mentoranda), 9th edition
 - 🌱 Learning at the moment: Python, Java and SQL
 - 🛡️ Interests: Cybersecurity and Networks
 - ♟️ Out of the code: I love chess, puzzles and photography
