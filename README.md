@@ -3,7 +3,8 @@
 ### 👩‍💻 About Me
 I am currently a student at **42 Porto** and in the technical course of computer science by **IEFP**. I’m a technology enthusiast who loves to solve complex problems, from low-level C logic to developing versatile Python and Java applications.
 
-- 🔭 Currently working on: 42 Common Core Projects (C/Python), Vita4All project for Tecstorm 2026
+- 🔭 Currently working on: 42 Common Core Projects (C/Python)
+- 🥈 Vita4All finalist project for Tecstorm 2026
 - 🧡 Geek Girls Mentorship Program (Mentoranda), 9th edition
 - 🌱 Learning at the moment: Python, Java and SQL
 - 🛡️ Interests: Cybersecurity and Networks
@@ -23,7 +24,7 @@ I am currently a student at **42 Porto** and in the technical course of computer
 
 ### 📊 Minhas Estatísticas
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpavlows&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpavlows&theme=dracula&hide_border=true" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bpavlows&show_icons=true&theme=dracula" alt="Stats" height="150" />
 </p>
 ---
