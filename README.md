@@ -22,7 +22,7 @@ I am currently a student at **42 Porto** and in the technical course of computer
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 My Statistics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpavlows&theme=dracula&hide_border=true" alt="GitHub Streak" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bpavlows&show_icons=true&theme=dracula" alt="Stats" height="150" />
